@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  border: 5px solid black;
+  height: fit-content;
+  width: fit-content;
+  margin: auto;
+}
+.row {
+  display: flex;
+}
+.box {
+  border: 5px solid black;
+  height: 150px;
+  width: 150px;
+}
+.mark1 {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.5xgZNNEIjP7ET7uDAbHEOQHaGe%26pid%3DApi&f=1&ipt=1011f057c44455c0e07cb6f209eb7504b819edcdadca2a2767e19840ad456854&ipo=images");
+  background-size: cover;
+}
+
+.mark2 {
+  background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.SgrejJzk87k3t64dLq9-awHaIS%26pid%3DApi&f=1&ipt=d395145f6c8cefd8364f44bb14c1b33175a928a1090f63e2a096f81ce83afa11&ipo=images");
+  background-size: cover;
+}
